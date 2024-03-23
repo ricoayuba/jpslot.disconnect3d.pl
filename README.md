@@ -1,0 +1,1 @@
+# jpslot.disconnect3d.pl
